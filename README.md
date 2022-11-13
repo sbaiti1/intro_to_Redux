@@ -153,3 +153,10 @@ export default App
 ```
 
 ***useSelector()***  takes the current state as an argument, returns the required data, and stores the returned value as a single variable
+
+## Redux DevTools
+
+**Link** : https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=fr
+
+![Screenshot from 2022-11-13 20-18-56](https://user-images.githubusercontent.com/91995474/201540484-a1b6deb2-ff32-4507-b17a-36ad994b4a14.png)
+
